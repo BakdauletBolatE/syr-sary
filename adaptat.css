@@ -1,0 +1,182 @@
+@media only screen and (max-width: 1440px){
+.profirm_content {
+  	 bottom: 780px;
+     left: 40px;
+     width: 600px;
+  }  
+.kratko_profirm{
+        position: relative;
+        padding-left:  550px;
+        bottom: 100px;
+        z-index: 3;
+      } 
+.contayner{
+     margin-top: -700px;
+   } 
+.sostav_producta{
+	margin-top: 100px;
+}           
+}
+
+@media only screen and (max-width: 1030px){
+  .content{
+  	 margin-right: 0%;
+     margin-left: 0%;
+  }
+  ul li{
+  	padding-left: 25px;
+  }
+  .navbar-nav{
+      margin-left: 150px;
+     }
+  .container-fluid{
+      padding-right: 0;        
+
+      }   
+ .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl{
+        padding-right: 20px;
+        width: 100%;
+      }
+  
+  .kratko_profirm{
+        position: relative;
+        padding-left: 550px;
+        bottom: 100px;
+        z-index: 3;
+      }  
+  .profirm_content {
+  	 bottom: 780px;
+     left: 40px;
+     width: 600px;
+  }  
+  .contayner{
+     margin-top: -700px;
+   }
+  .sostav_content{
+  	margin-top: 10%;
+  }  
+  
+}
+@media only screen and (max-width: 768px){
+  .kratko_profirm{
+        position: relative;
+        padding-left: 536px;
+        bottom: 73px;        
+        z-index: 3;
+      } 
+   .with_powar{
+   	   width: 140%
+   } 
+   .profirm_content{
+       /* background-image: url(img/taqta2.png);*/
+        position: relative;
+        bottom: 550px;
+        left: 40px;
+        width: 450px;
+        background-color: #FFCC00;
+        padding: 25px 20px;
+        border-radius: 55px;
+        margin-top: 52px;
+      } 
+    .gif{
+    	width: 30%;
+    	margin-left: 130px;
+    }  
+    .contayner{
+     margin-top: -520px;
+   }
+   .card-body{
+       margin-top: 50%;
+        
+      }
+    .sostav_content{
+  	   font-size: 17px;
+    }    
+    .row>*{
+    	margin-top: 60px;
+    } 
+    .col{
+    	padding-top: 63px;
+    }
+   
+}
+@media only screen and (max-width: 428px){
+  
+    .slide{
+    	padding: 60% 35% 60% 35%;
+    } 
+    .contayner{
+     margin-top: -37px;
+   }
+   .profirm_content{
+       /* background-image: url(img/taqta2.png);*/
+        position: relative;
+        bottom: 49px;
+        left: 0px;
+        width: 440px;
+        background-color: #FFCC00;
+        padding: 25px 20px;
+        border-radius: 55px;
+        margin-top: 52px;
+      } 
+   .kratko_profirm{
+   	    display: none;
+   }   
+   .card-body {
+    margin-top: 67%;
+}
+  .col {
+    padding-top: 3px;
+}
+  .sostav{
+  	display: none;
+  }
+  .sostav_content {
+    font-size: 17px;
+    padding: 15px;
+    margin-top: 0;
+  }
+  .footer {
+    display: flex;
+    margin-top: 712px;
+    padding-top: 40px;
+    padding-left: 35px;
+    padding-bottom: 20px;
+    background-color: #000000;
+    border-radius: 20px;
+    max-width: 100%;
+   }
+   .iframe{
+   	display: none;
+   }
+   .profirm_content {
+    /* background-image: url(img/taqta2.png); */
+    position: relative;
+    bottom: 49px;
+    left: 0px;
+    width: 386px;
+    background-color: #FFCC00;
+    padding: 25px 20px;
+    border-radius: 55px;
+    margin-top: 52px;
+}
+.navbar-nav {
+    margin-left: 54px;
+}
+}
+
+
+
+@media only screen and (max-width: 375px){
+  .slide {
+    padding: 60% 29% 75% 29%;
+}
+}
+@media only screen and (max-width: 1030px){
+   .profirm_content {
+   	width: 330px;
+   }
+   .slide {
+    padding: 80% 29% 78% 29%;
+}
+}
